@@ -1,6 +1,6 @@
 # Rivetizer
 
-Rivetizer is a utility that converts XHTML fetched from the [KMS REST API](https://kb.iu.edu/d/rest) to [Rivet](https://rivet.uits.iu.edu/)-flavored HTML. 
+Rivetizer is a utility that converts XHTML fetched from the [KMS REST API](https://kb.iu.edu/d/rest) to [Rivet](https://rivet.uits.iu.edu/)-friendly HTML. 
 
 Use this function to seamlessly embed KMS documents into your Rivet-powered website without writing custom CSS to target KMS-specific elements and classes.
 
