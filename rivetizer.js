@@ -1,3 +1,8 @@
+/**
+ * Copyright (C) 2018 The Trustees of Indiana University
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
 function rivetize(kmsXhtml, cssClasses) {
     return kmsXhtml
       .replace(/<div class="references [\s\w-]+">[^]+<\/div>/g, '')
